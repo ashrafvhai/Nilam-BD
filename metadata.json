@@ -1,0 +1,6 @@
+{
+  "name": "Nilam",
+  "description": "Premium mobile auction platform for Bangladesh featuring live bidding, NID verification, seller-controlled winners, and in-app chat in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
